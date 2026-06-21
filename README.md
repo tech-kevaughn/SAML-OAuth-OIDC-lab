@@ -13,7 +13,7 @@ This project demonstrates hands-on identity federation using Auth0. I built and 
 ## Lab 1: SAML 2.0 SSO
 I configured Auth0 as the Identity Provider and a SAML testing application as the Service Provider.
 
-![SAML Auth0 Addon](screenshots/saml-oauth0-addon.png)
+![SAML Auth0 Addon](saml-oauth0-addon.png)
 
 Key concepts:
 - Identity Provider
@@ -27,7 +27,7 @@ Key concepts:
 ## Lab 2: OpenID Connect
 I configured an OIDC application in Auth0 and tested authentication using OIDC Debugger.
 
-![OIDC Debugger](screenshots/debugger-request.png)
+![OIDC Debugger](debugger-request.png)
 
 Key concepts:
 - OpenID Provider
@@ -40,7 +40,7 @@ Key concepts:
 ## Lab 3: OAuth 2.0
 I configured a custom API in Auth0 and tested OAuth authorization using access tokens.
 
-![OAuth API](screenshots/09-oauth-api-permissions.png)
+![OAuth API](oauth-api-permissions.png)
 
 Key concepts:
 - Resource server
