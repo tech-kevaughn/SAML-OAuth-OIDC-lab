@@ -1,4 +1,6 @@
 # IAM Federation Lab: SAML, OAuth 2.0, and OIDC, with Auth0
+![Introduction](samlvsoauthvsoidclab.png)
+
 
 ## Overview
 This project demonstrates hands-on identity federation using Auth0 tenant to test protocol behaviors. I built and tested SAML 2.0 SSO, OpenID Connect authentication, and OAuth 2.0 authorization flows. During this process, I configured a SAML web app to inspect XML assertions using SAML-tracer, and then set up an OIDC flow to decode JWTs and map claims.
