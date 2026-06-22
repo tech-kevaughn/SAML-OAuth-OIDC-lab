@@ -5,6 +5,9 @@
 ## Overview
 This project demonstrates hands-on identity federation using Auth0 tenant to test protocol behaviors. I built and tested SAML 2.0 SSO, OpenID Connect authentication, and OAuth 2.0 authorization flows. During this process, I configured a SAML web app to inspect XML assertions using SAML-tracer, and then set up an OIDC flow to decode JWTs and map claims.
 
+## Full Lab Report
+For a detailed write-up of the lab, configuration steps, results, troubleshooting, and lessons learned, see [docs/report.md](docs/report.md).
+
 ## Tools Used
 - Auth0
 - SAML Testing Tool
