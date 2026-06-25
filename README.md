@@ -60,5 +60,4 @@ This lab helped me understand the difference between authentication and authoriz
 
 SAML and OIDC are mainly used for authentication and SSO. OAuth 2.0 is used for authorization and API access.
 
-## Security Note
-All sensitive values were redacted before uploading, including client secrets, tokens, authorization codes, certificates, and personal information.
+
