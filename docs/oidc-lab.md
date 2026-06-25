@@ -1,4 +1,4 @@
-# Part 2: OIDC (OpenID Connect) with Auth0
+# Part 2 - OIDC (OpenID Connect) with Auth0
 
 ## Objective
 The goal of this lab was to configure an OpenID Connect (OIDC) application in Auth0, connect it to the OIDC Debugger as the relying party, authenticate a user, and inspect the tokens returned by Auth0. In my test flow, the debugger returned an **authorization code**, an **access token**, and an **ID token**, which I then decoded to inspect the authentication claims.
