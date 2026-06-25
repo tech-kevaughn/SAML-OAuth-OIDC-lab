@@ -1,4 +1,4 @@
-# SAML 2.0 Lab
+# Part 2 - OIDC (OpenID Connect)
 
 ## Goal
 Configure Auth0 as the Identity Provider and a SAML testing application as the Service Provider.
