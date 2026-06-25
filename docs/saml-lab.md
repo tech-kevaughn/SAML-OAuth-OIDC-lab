@@ -1,7 +1,7 @@
-# Lab 1 – SAML 2.0 SSO with Auth0
+# Part 1 – SAML 2.0 SSO with Auth0
 
 ## Objective
-In this lab, I built an end-to-end **SAML 2.0 Single Sign-On (SSO)** integration using **Auth0 as the Identity Provider (IdP)** and **samlsp.com** as the Service Provider (SP). The goal was to understand how SAML trust is established, how metadata exchange works, and how user attributes are delivered in a SAML assertion after successful authentication.
+In this part of the lab, I built an end-to-end **SAML 2.0 Single Sign-On (SSO)** integration using **Auth0 as the Identity Provider (IdP)** and **samlsp.com** as the Service Provider (SP). The goal was to understand how SAML trust is established, how metadata exchange works, and how user attributes are delivered in a SAML assertion after successful authentication.
 
 ---
 
