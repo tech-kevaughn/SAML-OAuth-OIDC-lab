@@ -70,7 +70,7 @@ The main objectives of this lab were to:
 
 ---
 
-# 4. Lab 1 – SAML 2.0 Hands-On
+# 4. SAML 2.0 
 
 ## 4.1 Objective
 The objective of the SAML lab was to configure Auth0 as the **Identity Provider (IdP)** and a SAML test application as the **Service Provider (SP)**, then perform a successful SP-initiated login and inspect the resulting user attributes.
@@ -121,7 +121,7 @@ SAML is heavily based on **XML**, **metadata files**, **assertions**, and **cert
 
 ---
 
-# 5. Lab 2 – OpenID Connect (OIDC) Hands-On
+# 5. OpenID Connect (OIDC) 
 
 ## 5.1 Objective
 The objective of the OIDC lab was to configure an Auth0 application, authenticate through an OIDC flow, receive an **ID token**, and inspect the JWT claims returned by the identity provider.
@@ -182,7 +182,7 @@ OIDC is used for **authentication** and modern web/mobile login. It is lighter t
 
 ---
 
-# 6. Lab 3 – OAuth 2.0 Hands-On
+# 6. OAuth 2.0 
 
 ## 6.1 Objective
 The objective of the OAuth 2.0 lab was to build a **machine-to-machine authorization flow** using **Client Credentials**, request an **access token** from Auth0, and understand how OAuth differs from OIDC.
